@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{76FF7A70-E517-8578-BF16-44FCF93A8A46}") = "Instagib Madness", "Assembly-CSharp-firstpass.csproj", "{3E04DFFF-04E4-D3EB-5F7B-01B8411ECA49}"
+EndProject
+Project("{76FF7A70-E517-8578-BF16-44FCF93A8A46}") = "Instagib Madness", "Assembly-CSharp.csproj", "{50F2A305-F899-3C19-9D20-24C3EA5C6E0F}"
+EndProject
+Project("{76FF7A70-E517-8578-BF16-44FCF93A8A46}") = "Instagib Madness", "Assembly-CSharp-Editor.csproj", "{B19492D7-E1F4-F51B-2182-D91C1F871AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E04DFFF-04E4-D3EB-5F7B-01B8411ECA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E04DFFF-04E4-D3EB-5F7B-01B8411ECA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E04DFFF-04E4-D3EB-5F7B-01B8411ECA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E04DFFF-04E4-D3EB-5F7B-01B8411ECA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50F2A305-F899-3C19-9D20-24C3EA5C6E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F2A305-F899-3C19-9D20-24C3EA5C6E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F2A305-F899-3C19-9D20-24C3EA5C6E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F2A305-F899-3C19-9D20-24C3EA5C6E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B19492D7-E1F4-F51B-2182-D91C1F871AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B19492D7-E1F4-F51B-2182-D91C1F871AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B19492D7-E1F4-F51B-2182-D91C1F871AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B19492D7-E1F4-F51B-2182-D91C1F871AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
